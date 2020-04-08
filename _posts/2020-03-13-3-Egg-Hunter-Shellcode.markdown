@@ -222,7 +222,6 @@ uid=1000(kecebong) gid=1000(kecebong) groups=1000(kecebong),4(adm),24(cdrom),27(
 
 {% include_relative slae32.html %}
 
-This pattern should be repeated before the real shellcode, as the egghunter also contains this pattern and we want to avoid the egghunter to jump into its code instead of the shellcode.
 ## Reference
 - [[1] Skape, Egghunter](http://www.hick.org/code/skape/papers/egghunt-shellcode.pdf)
 - [[2] Shashi Kiran, Hunting the Egg: Egg Hunter](https://www.secpod.com/blog/hunting-the-egg-egg-hunter/)
