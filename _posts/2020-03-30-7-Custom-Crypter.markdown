@@ -1,7 +1,8 @@
 ---
 layout: single 
+classes: wide
 title:  "Custom Shellcode Crypter"
-date:   2020-03-30 10:30:06 +0800
+date:   2020-04-05 10:30:06 +0800
 categories: jekyll update
 ---
 

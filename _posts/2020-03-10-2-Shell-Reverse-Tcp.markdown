@@ -1,5 +1,6 @@
 ---
 layout: single 
+classes: wide
 title:  "Shell Reverse TCP Shellcode"
 date:   2020-03-10 10:11:06 +0800
 categories: jekyll update

@@ -1,5 +1,6 @@
 ---
 layout: single 
+classes: wide
 title:  "Egg Hunter Shellcode"
 date:   2020-03-13 05:54:06 +0800
 categories: jekyll update

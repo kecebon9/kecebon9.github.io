@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title:  "Shell Bind TCP Shellcode"
 date:   2020-03-08 18:31:04 +0800
 categories: jekyll update

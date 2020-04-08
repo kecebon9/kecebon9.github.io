@@ -1,5 +1,6 @@
 ---
 layout: single 
+classes: wide
 title:  "Metasploit Shellcode Analysis"
 date:   2020-03-19 11:08:36 +0800
 categories: jekyll update

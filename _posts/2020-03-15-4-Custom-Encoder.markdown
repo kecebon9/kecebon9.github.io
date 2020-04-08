@@ -1,5 +1,6 @@
 ---
 layout: single 
+classes: wide
 title:  "Custom Shellcode Encoder"
 date:   2020-03-15 18:54:48 +0800
 categories: jekyll update

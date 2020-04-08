@@ -1,5 +1,6 @@
 ---
 layout: single 
+classes: wide
 title:  "Polymorphic Shellcode"
 date:   2020-03-23 06:54:06 +0800
 categories: jekyll update
